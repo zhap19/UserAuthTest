@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "509322479423",
+    "firebase_url": "https://userauthtest-daaee.firebaseio.com",
+    "project_id": "userauthtest-daaee",
+    "storage_bucket": "userauthtest-daaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509322479423:android:2fa205db0708f48a",
+        "android_client_info": {
+          "package_name": "com.ensten.robert.userauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509322479423-qsmcjh50hct65qko1l3re4fr0kngrgpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvElaOKmOFvWke5ZQfdqGiO286wuJIow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
